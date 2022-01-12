@@ -1,0 +1,62 @@
+[
+    {
+        "title":"HTML",
+        "value":90,
+        "comment":"Hands  on experience in  HTML"
+    },
+    {
+        "title":"CSS",
+        "value":93,
+        "comment":"Hands  on experience in  CSS"
+    },
+    {
+        "title":"javaScript",
+        "value":80,
+        "comment":"Hands  on experience in  javaScript"
+    },
+    {
+        "title":"React Js",
+        "value":90,
+        "comment":"Hands  on experience in  React Js"
+    },
+    {
+        "title":"Node Js",
+        "value":85,
+        "comment":"Hands  on experience in  node Js"
+    },
+    {
+        "title":"Express Js",
+        "value":70,
+        "comment":"Hands  on experience in  Express Js"
+    },
+    {
+        "title":"MongoDB",
+        "value":70,
+        "comment":"Hands  on experience in  MongoDB"
+    },
+    {
+        "title":"Partical Js",
+        "value":60,
+        "comment":"Hands  on experience in  Partical Js"
+    },
+    {
+        "title":"C++",
+        "value":90,
+        "comment":"Hands  on experience in  C++"
+    },
+    {
+        "title":"Python",
+        "value":60,
+        "comment":"Hands  on experience in  Python"
+    },
+    {
+        "title":"DSA",
+        "value":85,
+        "comment":"Hands  on experience in  DSA"
+    },
+    {
+        "title":"DBMS",
+        "value":70,
+        "comment":"Hands  on experience in  DBMS"
+    }
+]
