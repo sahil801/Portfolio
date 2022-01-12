@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.7240dc57.chunk.css",
+    "main.js": "/Portfolio/static/js/main.a6bb3739.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.a6bb3739.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.66e643dc.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.66e643dc.js.map",
+    "static/css/2.1d064e95.chunk.css": "/Portfolio/static/css/2.1d064e95.chunk.css",
+    "static/js/2.2e07db0d.chunk.js": "/Portfolio/static/js/2.2e07db0d.chunk.js",
+    "static/js/2.2e07db0d.chunk.js.map": "/Portfolio/static/js/2.2e07db0d.chunk.js.map",
+    "static/js/3.0e024707.chunk.js": "/Portfolio/static/js/3.0e024707.chunk.js",
+    "static/js/3.0e024707.chunk.js.map": "/Portfolio/static/js/3.0e024707.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/2.1d064e95.chunk.css.map": "/Portfolio/static/css/2.1d064e95.chunk.css.map",
+    "static/css/main.7240dc57.chunk.css.map": "/Portfolio/static/css/main.7240dc57.chunk.css.map",
+    "static/js/2.2e07db0d.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.2e07db0d.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/Portfolio/static/media/FO-Raja-Bhoj-flipped-cropped.b59b43c2.jpeg",
+    "static/media/profile-img.270b12c8.jpeg": "/Portfolio/static/media/profile-img.270b12c8.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66e643dc.js",
+    "static/css/2.1d064e95.chunk.css",
+    "static/js/2.2e07db0d.chunk.js",
+    "static/css/main.7240dc57.chunk.css",
+    "static/js/main.a6bb3739.chunk.js"
+  ]
+}
